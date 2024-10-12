@@ -13,7 +13,10 @@ knowledge and expertise to a team.
 - 👀 I’m interested in AI, data engineering/science, ML, NLP, web development
 - 🌱 I’m currently learning MSc in Software Engineering, MSc in Financial Engineering and applied data science, AI mastery: ML engineering, data engineering and financial analytics
 - 💞️ I’m looking to collaborate on teams of data science, web development and researchers in IT related areas
-- 📫 How to reach me E-mail:jerusalem.sweng@gmail.com or jerusalem.fetene@ambou.edu.et
+- 📫 How to reach me
+             E-mail:  jerusalem.sweng@gmail.com or jerusalem.fetene@ambou.edu.et
+             Myportfolio: https://jerusalem-fetene.github.io/myportfolio/
+             LinkedIn: www.linkedin.com/in/jerusalem-fetene-mekonnin-1987b7296
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: 
 
