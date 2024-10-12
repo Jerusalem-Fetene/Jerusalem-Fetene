@@ -5,9 +5,8 @@
         my AI in ML engineering, data engineering and financial analytics at 10 academy kifiya AI mastery program.
         My diverse qualifications include certifications in programming, data analytics, data engineering, ML engineering, risk management, network security, warehouse 
         management,software development, project management, scientific paper writing, python programming, NLP and AI, among others.
-
-       I believe my strong academic background, teaching experience, and extensive skill set make me a suitable candidate for IT related jobs. I am eager to contribute my
-       knowledge and expertise to a team.
+        I believe my strong academic background, teaching experience, and extensive skill set make me a suitable candidate for IT related jobs. I am eager to contribute my
+        knowledge and expertise to a team.
 
 - 👀 I’m interested in AI, data engineering/science, ML, NLP, web development
 - 🌱 I’m currently learning MSc in Software Engineering, MSc in Financial Engineering and applied data science, AI mastery: ML engineering, data engineering and financial analytics
