@@ -1,6 +1,6 @@
 - 👋 Hi, I am Jerusalem Fetene Mekonnin,
   <ul>
-           <li></li> BSc in Information Technology
+           <li>BSc in Information Technology
            <li> MSc in Software Eningeering, FE 
            <li> Certificates: Applied Data Science Labs and Applied AI Labs 
           <li> My diverse qualifications include professional certifications in programming languages, ML Practical Essentials, data analytics, data engineering, ML engineering, risk management, network security, warehouse management, software development, project management, scientific paper writing, NLP and AI, among others.
