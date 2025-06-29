@@ -11,7 +11,7 @@
 <br>- 💞️ I’m looking to collaborate on teams of data science, web development and researchers in IT related areas.
 <br>- 📫 How to reach me
 <ul>
-            <li> E-mail:  jerusalem.sweng@gmail.com </li>l
+            <li> E-mail:  jerusalem.sweng@gmail.com </li>
            <li> Myportfolio: https://jerusalem-fetene.github.io/myportfolio/</li>
              <li>LinkedIn: https://www.linkedin.com/in/jerusalem-fetene-mekonnin/ </li>
 </ul>
