@@ -2,8 +2,7 @@
   <ul>
            <li>BSc in Information Technology
            <li> MSc in Software Eningeering, FE 
-           <li> Certificates: Applied Data Science Labs and Applied AI Labs 
-          <li> My diverse qualifications include professional certifications in programming languages, ML Practical Essentials, data analytics, data engineering, ML engineering, risk management, network security, warehouse management, software development, project management, scientific paper writing, NLP and AI, among others.
+          <li> Besides, my diverse qualifications include professional certifications in Applied Data Science Labs, Applied AI Labs, programming languages, ML Practical Essentials, data analytics, data engineering, ML engineering, risk management, network security, warehouse management, software development, project management, scientific paper writing, NLP and AI, among others.
        <li>I believe my strong academic background, teaching experience, and extensive skill set make me a suitable candidate for IT 
        related jobs. I am eager to contribute my knowledge and expertise to a team.
 </ul>
