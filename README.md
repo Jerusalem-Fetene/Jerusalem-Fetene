@@ -1,13 +1,13 @@
-- 👋 Hi, I am Jerusalem Fetene Mekonnin, a recent graduate of BSc in IT, achieving a CGPA of 3.76 on January 20, 2021.
-         <br>-MSc in Software Eningeering, FE along with Applied Data Science Labs and Applied AI Labs at WorldQuant university which 
-         highly empowers my skills in programming, statistics, data science, and financial analytics. 
-        <br>-My diverse qualifications include certifications in programming, data analytics, data engineering, ML engineering, risk 
-          management, network security, warehouse management, software development, project management, scientific paper writing, python 
-           programming, NLP and AI, among others.
-       <br> -I believe my strong academic background, teaching experience, and extensive skill set make me a suitable candidate for IT 
+- 👋 Hi, I am Jerusalem Fetene Mekonnin,
+  <ul>
+           <li></li> BSc in Information Technology
+           <li> MSc in Software Eningeering, FE 
+           <li> Certificates: Applied Data Science Labs and Applied AI Labs 
+          <li> My diverse qualifications include professional certifications in programming languages, ML Practical Essentials, data analytics, data engineering, ML engineering, risk management, network security, warehouse management, software development, project management, scientific paper writing, NLP and AI, among others.
+       <li>I believe my strong academic background, teaching experience, and extensive skill set make me a suitable candidate for IT 
        related jobs. I am eager to contribute my knowledge and expertise to a team.
-
-<br>- 👀 I’m interested in AI, data engineering/science, ML, NLP, web development
+</ul>
+<br>- 👀 I’m interested in Data science, AI, Data Engineering, ML, NLP, Web Apps Development
 <br>- 💞️ I’m looking to collaborate on teams of data science, web development and researchers in IT related areas.
 <br>- 📫 How to reach me
 <ul>
